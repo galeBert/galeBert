@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @galeBert
-- 👀 I’m interested in ReactJS and ReactTs
-- 🌱 I’m currently learning ReactTs
-- 💞️ I’m looking to collaborate on any project
-- 📫 ggalilea007@gmail.com
+👋 Hey there! I'm Galebert, a seasoned web developer with over 4 years of experience. Currently, my tech stack includes ReactJS, Next.js, TypeScript, and Flutter, with a keen openness to exploring new languages and frameworks. I specialize in crafting full-stack web solutions, integrating RESTful APIs, databases, and ensuring code reusability. Check out my website at igwt.space!
 
-<!---
-galeBert/galeBert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Currently, I'm immersed in a project centered around shipping tracking and payment methods. Feel free to drop me an email at ggalilea007@gmail.com to connect or discuss potential collaborations.
+
+💼 I'm currently contributing to Inspire Technologies as a frontend developer, tasked with shaping the frontend aspects of upcoming social media applications.
