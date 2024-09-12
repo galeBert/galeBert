@@ -16,5 +16,6 @@ Currently, my tech stack includes ReactJS, Next.js, TypeScript, and Flutter, wit
 
 ### Top Technologies
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 [![Gale's GitHub stats](https://github-readme-stats.vercel.app/api?username=galebert)](https://github.com/anuraghazra/github-readme-stats)
