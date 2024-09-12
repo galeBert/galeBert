@@ -15,6 +15,6 @@ Currently, my tech stack includes ReactJS, Next.js, TypeScript, and Flutter, wit
 💼 I'm currently contributing to Inspire Technologies as a frontend developer, tasked with shaping the frontend aspects of upcoming social media applications.
 
 ### Top Technologies
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 [![Gale's GitHub stats](https://github-readme-stats.vercel.app/api?username=galebert)](https://github.com/anuraghazra/github-readme-stats)
