@@ -8,3 +8,5 @@ Currently, my tech stack includes ReactJS, Next.js, TypeScript, and Flutter, wit
 🚀 Currently, I'm immersed in a project centered around shipping tracking and payment methods. Feel free to drop me an email at ggalilea007@gmail.com to connect or discuss potential collaborations.
 
 💼 I'm currently contributing to Inspire Technologies as a frontend developer, tasked with shaping the frontend aspects of upcoming social media applications.
+
+[![Gale's GitHub stats](https://github-readme-stats.vercel.app/api?username=galebert)](https://github.com/anuraghazra/github-readme-stats)
