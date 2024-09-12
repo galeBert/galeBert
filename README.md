@@ -1,5 +1,6 @@
 👋 Hey there! I'm Galebert, 
 
+https://www.linkedin.com/in/albert-galilea-suranta-ginting-114221241/
 - I've a seasoned web developer with over 5 years of experience
 - Mainly using React Library
 
