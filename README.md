@@ -1,5 +1,7 @@
 👋 Hey there! I'm Galebert, 
 
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
 https://www.linkedin.com/in/albert-galilea-suranta-ginting-114221241/
 - I've a seasoned web developer with over 5 years of experience
 - Mainly using React Library
